@@ -7,3 +7,5 @@ node_modules/
 *.json.keypair
 id_*.json
 makefun-keypair.json
+__pycache__/
+*.pyc
